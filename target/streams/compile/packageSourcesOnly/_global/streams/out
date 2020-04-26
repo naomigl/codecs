@@ -1,7 +1,0 @@
-[debug] Packaging C:\Users\Naomi\Documents\Spark coursera\codecs\target\scala-2.13\progfun2-codecs_2.13-0.1.0-SNAPSHOT-sources.jar ...
-[debug] Input file mappings:
-[debug] 	codecs\codecs.scala
-[debug] 	  C:\Users\Naomi\Documents\Spark coursera\codecs\src\main\scala\codecs\codecs.scala
-[debug] 	codecs\Util.scala
-[debug] 	  C:\Users\Naomi\Documents\Spark coursera\codecs\src\main\scala\codecs\Util.scala
-[debug] Done packaging.
